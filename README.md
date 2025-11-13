@@ -1,6 +1,3 @@
-
----
-
 # 👗 ClothCast - AI Outfit Forecaster (Fast)
 
 ClothCast is a fun AI-powered app that generates **fashion outfit suggestions** based on your **weather, activity, and style**. Users can instantly see a full-body outfit and get practical tips for dressing according to their scenario.

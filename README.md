@@ -1,4 +1,3 @@
-Got it, Joas! Here’s a **simple, clean, hackathon-ready README** for your GitHub repo:
 
 ---
 
